@@ -9,3 +9,5 @@ pip install streamlit
 ollama pull llama2 //perform in terminal
 
 streamlit run app.py
+
+AIzaSyDQInx8mp8C5RHxpQKYl1ujorQZ1w69OtA
